@@ -1,0 +1,1 @@
+This is a small program to send keystrokes to the CNC Centriod program. On a touchscreen you have no numeric keypad, so you need still a keyboard to enter the numbers. With this program there is no need for this.
